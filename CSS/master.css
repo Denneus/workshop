@@ -19,7 +19,7 @@ h1{
 }
 
 h1:hover{
-  transform: rotate(45deg);
+  transform: rotate(0.1turn);
 }
 
 p{
@@ -34,9 +34,8 @@ button{
   font-size: 24px;
   background-color:red;
 }
-
-button:nth-of-type(2){
-  background-color:  yellow;
+button.green{
+  background-color:green;
 }
 
 button:hover{
