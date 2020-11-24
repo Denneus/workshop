@@ -35,6 +35,10 @@ button{
   background-color:red;
 }
 
+button:nth-of-type(2){
+  background-color:  yellow;
+}
+
 button:hover{
   cursor:pointer;
 }
